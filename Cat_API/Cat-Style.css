@@ -1,0 +1,24 @@
+h1 {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+h2 {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+body {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    background-color: darkslategray;
+    color: lightcyan;
+}
+
+img {
+    max-width:100%;
+    height:auto;
+}
